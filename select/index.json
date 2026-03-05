@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ガラスのPALM TREE(SUGI ROCK fes. Live Ver.)",
+  "base_artist": "杉山清貴",
+  "createdAt": "2026-03-05T12:00:48.494512Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガラスのPALM TREE (Nu Discotheque Groove)",
+      "artist": "杉山 清貴&オメガトライブ",
+      "has_synced": false,
+      "path": "select/pl_01_ガラスのPALM_TREE_(Nu_Discotheque_Groove)_杉山_清貴&オメガトライブ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ガラスのPALM TREE",
+      "artist": "杉山 清貴&オメガトライブ",
+      "has_synced": false,
+      "path": "select/pl_02_ガラスのPALM_TREE_杉山_清貴&オメガトライブ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ガラスのPALM TREE",
+      "artist": "杉山 清貴&オメガトライブ",
+      "has_synced": false,
+      "path": "select/pl_03_ガラスのPALM_TREE_杉山_清貴&オメガトライブ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ガラスのPALM TREE",
+      "artist": "杉山 清貴&オメガトライブ",
+      "has_synced": false,
+      "path": "select/pl_04_ガラスのPALM_TREE_杉山_清貴&オメガトライブ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ガラスのPALM TREE",
+      "artist": "杉山 清貴&オメガトライブ",
+      "has_synced": false,
+      "path": "select/pl_05_ガラスのPALM_TREE_杉山_清貴&オメガトライブ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ガラスのPALM TREE",
+      "artist": "杉山 清貴&オメガトライブ",
+      "has_synced": false,
+      "path": "select/pl_06_ガラスのPALM_TREE_杉山_清貴&オメガトライブ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ガラスのPALM TREE",
+      "artist": "杉山 清貴&オメガトライブ",
+      "has_synced": false,
+      "path": "select/pl_07_ガラスのPALM_TREE_杉山_清貴&オメガトライブ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ガラスのPalm Tree",
+      "artist": "杉山 清貴&オメガトライブ",
+      "has_synced": false,
+      "path": "select/pl_08_ガラスのPalm_Tree_杉山_清貴&オメガトライブ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ガラスのPALM TREE",
+      "artist": "杉山 清貴&オメガトライブ",
+      "has_synced": false,
+      "path": "select/pl_09_ガラスのPALM_TREE_杉山_清貴&オメガトライブ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ガラスのPALM TREE",
+      "artist": "杉山 清貴&オメガトライブ",
+      "has_synced": false,
+      "path": "select/pl_10_ガラスのPALM_TREE_杉山_清貴&オメガトライブ.txt"
+    }
+  ]
+}
